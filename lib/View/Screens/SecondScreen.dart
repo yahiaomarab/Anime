@@ -1,7 +1,7 @@
+import 'package:anime/View_Model/api_Cubit/api_Cubit.dart';
+import 'package:anime/View_Model/api_Cubit/api_States.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import '../../View_Model/cubit/Cubit.dart';
-import '../../View_Model/cubit/States.dart';
 import '../../Widgets/Widgets.dart';
 
 class GettingSingleQuote extends StatelessWidget {

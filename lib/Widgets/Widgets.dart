@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import '../Data/Model/Model.dart';
+import '../Data/Model/QuoteModel.dart';
 
 Widget Item(context, QuoteModel model) {
   return Container(

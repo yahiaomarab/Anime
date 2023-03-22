@@ -1,5 +1,5 @@
+import 'package:anime/View/LayoutSceen/layout.dart';
 import 'package:flutter/material.dart';
-import 'package:anime/Layout/LayoutSceen/layout.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

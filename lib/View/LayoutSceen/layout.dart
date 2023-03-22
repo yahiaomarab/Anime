@@ -1,8 +1,8 @@
+import 'package:anime/View_Model/LayoutCubit/LayoutCubit.dart';
+import 'package:anime/View_Model/LayoutCubit/LayoutStates.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
-import '../cubit/LayoutCubit.dart';
-import '../cubit/LayoutStates.dart';
 
 class LayoutScreen extends StatelessWidget {
   const LayoutScreen({super.key});

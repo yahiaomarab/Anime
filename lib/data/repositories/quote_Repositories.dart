@@ -1,7 +1,6 @@
-import '../Data_resources/ApiHelper.dart';
-import '../Data_resources/endPoints.dart';
-import '../Model/Model.dart';
-
+import 'package:anime/Data/Models/QuoteModel.dart';
+import 'package:anime/Data/data_resource/api_service.dart';
+import 'package:anime/api_Constants.dart';
 
 class QuoteRepository
 {
